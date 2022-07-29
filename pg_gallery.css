@@ -2,7 +2,7 @@ div.gallery {
   margin: 10px;
   border: 5px dotted greenyellow;
   float: left;
-  width: 400px;
+  width: 600px;
 }
 div.gallery:hover {
   box-shadow: 0 0 2px 1px #E4F9F5;
